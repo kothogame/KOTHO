@@ -1,0 +1,8 @@
+*********
+* Ideas *
+*********
+Character customization
+Cross-platform (between GNU/Linux and Windows)
+Single Player with an online option
+Driving Vehicles
+Weapons
