@@ -1,3 +1,7 @@
+'**********************************************************
+'* This library is to handles errors through-out the game *
+'**********************************************************
+
 Imports System
 Imports System.Console
 Imports System.Threading

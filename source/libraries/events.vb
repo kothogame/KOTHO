@@ -4,7 +4,6 @@
 
 Imports System
 Imports System.Console
-'Imports System.Threading	'Future Use
 Public Class RandomEvent
 
 Public Function RandomNumber(Optional Lowest As Integer = 1, Optional Highest As Integer = 100) As Integer
