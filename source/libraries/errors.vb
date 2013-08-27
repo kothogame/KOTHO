@@ -10,7 +10,7 @@ Public Class ErrorHandler
 Dim EMsg As String = Nothing
 Public Function Er(Optional ErDescription As String = Nothing, Optional ErNumber As Integer = -1, Optional Type As String = "console") As Boolean
 	If ErNumber = 0 AndAlso ErDescription = Nothing Then
-		EMsg = "The error event was raised but an error did not occure!"
+		EMsg = "The error event was raised but an error did not occur!"
 	ElseIf ErNumber = 1 Then
 		EMsg = "This is a test."
 	Else
