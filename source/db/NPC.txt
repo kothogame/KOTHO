@@ -1,0 +1,13 @@
+# An example database file holding Non Playable Characters info
+# Syntax: ID:Name:Description:Mood:Health:Damage
+# Example:
+# 10000 is the ID
+# 'Peggy Hill; is the name
+# 'My wife' is the description
+# '0' Is the mood which means friendly (wont attack and can not be attacked)
+# '0' Is the health (cant die)
+# '0' Is the damage (cant hurt a fly)
+#
+# Mood can be: 0 = Peaceful    1 = Neutral (wont attack unless hit first)    2 = Aggresive (will attack on site)
+10000:Peggy Hill:My wife:0:0:0
+10001:GSA Grunt:A low ranking member of the GSA:2:2:0.5

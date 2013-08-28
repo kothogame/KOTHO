@@ -1,0 +1,5 @@
+# This should be encrypted because of cheaters O.o
+# All 0's are money
+# Syntax: ID:Amount
+00000:25
+40000:1

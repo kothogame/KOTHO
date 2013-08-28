@@ -1,0 +1,5 @@
+# Example database for holding shop information
+# IDs start with 10000
+# Syntax: ID:Name:Description:Item1|Price,Item2|Price
+# Note: Items should be listed from smallest to largest (e.x. 10000 comes first, then 40001)
+10000:Hardware Store:Sells just about everything:10000|5,20000|50,20003|2

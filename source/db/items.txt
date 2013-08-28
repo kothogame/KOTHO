@@ -1,0 +1,42 @@
+# This is an example of a database containing item IDs
+# Syntax: #####:Name:Description:Effect:How_Many_Can_You_Own
+# first number can be 1 or 2 or 3 or 4
+# 1 = Weapon    2 = Ammo    3 = Health_Item    4 = Clothing/Armor    5 = Quest Item    6 = Other
+#
+# Example: 
+# '10000' is the ItemID and since it starts with a 1 its a weapong
+# 'Plank' is the name of the item
+# 'A wooden 2X4' is the description of the item
+# '1' is the ammount of damage 
+# '1' is the ammount you can own
+#
+# If the effect is 0 then it doesnt apply (like for ammo and quest items)
+# For weapons its damage, for Health Items its healing power, for armor its defence
+#
+# If the ammount is '0' then its unlimited
+# Start of items:
+
+# *Weapons*
+10000:Plank:A wooden 2X4:1:1
+10001:Empty Beer:A beer bottle:1.5:1
+10002:Torch:A propane-powered torch. Requires propane:2:1
+10003:Nail Gun:A portable nail gun. Requires nails:2:1
+10004:RPPL:A rocket propelled propane launcher:8:1
+# *Ammo*
+20000:Propane Canister:I better refill it:0:2
+20001:Propane:The cheap stuff:0:2
+20002:Stricklan Propane:The good stuff:0:2
+20003:Nails:Pointy iron nails for a nail gun:0:0
+
+# *Health*
+30000:Beer:Some cheap knock-off brand:1:0
+
+# *Cloths/Armor*
+40000:T-Shirt:A plain white T:0:1
+40001:Flight Jacket:Dads old WW2 jacket:1:1
+
+# *QuestItems*
+50000:Cellphone:Boby's Cell Phone:0:1
+
+# *Other*
+60000:Glass:Broken Glass:0:0
