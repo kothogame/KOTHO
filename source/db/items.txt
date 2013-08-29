@@ -35,6 +35,8 @@
 # *Cloths/Armor*
 40000:T-Shirt:A plain white T:0:1
 40001:Flight Jacket:Cotton's old jacket:1:1
+40002:Pots and Pans:I hope Peggy wont mind I took these:4:1
+40003:Shopped Propane Tanks:These better not explode:5:1
 
 # *QuestItems*
 50000:Cellphone:Boby's Cell Phone:0:1
