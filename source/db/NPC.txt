@@ -8,6 +8,7 @@
 # '0' Is the health (cant die)
 # '0' Is the damage (cant hurt a fly)
 #
-# Mood can be: 0 = Peaceful    1 = Neutral (wont attack unless hit first)    2 = Aggresive (will attack on site)
+# Mood can be: 0 = Peaceful    1 = Neutral (wont attack unless hit first)    2 = Aggresive (will attack on site)    3 = Gaurdian (Will attack enemies
 10000:Peggy Hill:My wife:0:0:0
 10001:GSA Grunt:A low ranking member of the GSA:2:2:0.5
+10002:Propane Bot:A marvel in propane engineering:3:4:3
