@@ -22,10 +22,11 @@
 10002:Torch:A propane-powered torch. Requires propane:2:1
 10003:Nail Gun:A portable nail gun. Requires nails:2:1
 10004:RPPL:A rocket propelled propane launcher:8:1
+
 # *Ammo*
 20000:Propane Canister:I better refill it:0:2
 20001:Propane:The cheap stuff:0:2
-20002:Stricklan Propane:The good stuff:0:2
+20002:Strickland Propane:The good stuff:0:2
 20003:Nails:Pointy iron nails for a nail gun:0:0
 
 # *Health*
@@ -33,7 +34,7 @@
 
 # *Cloths/Armor*
 40000:T-Shirt:A plain white T:0:1
-40001:Flight Jacket:Dads old WW2 jacket:1:1
+40001:Flight Jacket:Cotton's old jacket:1:1
 
 # *QuestItems*
 50000:Cellphone:Boby's Cell Phone:0:1
