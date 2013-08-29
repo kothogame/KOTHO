@@ -42,5 +42,5 @@
 50000:Cellphone:Boby's Cell Phone:0:1
 
 # *Other*
-60000:Glass:Broken Glass:0:0
-60001:Propane Bot:0:1
+60000:Glass:Broken Glass:Looks like I broke my beer:0:0
+60001:Propane Bot:Deploys a robot:0:1
